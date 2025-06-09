@@ -1,0 +1,1 @@
+#define BUSINESS_SCRUB_LIMB_MAX 0x1C

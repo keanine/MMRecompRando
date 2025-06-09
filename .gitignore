@@ -15,3 +15,8 @@ mm_recomp_rando/
 runtime/
 RecompModTool*
 OfflineModRecomp*
+BUILD_AND_RUN.lnk
+BUILD.lnk
+MakefileBackup
+testing/PATCHED
+testing/VANILLA
